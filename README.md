@@ -1,1 +1,2 @@
 # yolov5-so
+基于yolov5的小目标检测算法，目前是在yolov5的基础上增加了CARAFE模块、Involution模块和改进的SPPF模块
